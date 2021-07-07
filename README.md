@@ -122,3 +122,6 @@ while True:
 video_capture.release()
 cv2.destroyAllWindows()
 ```
+
+
+Click <a href="https://github.com/iiberu/Real_time_face_detection_using_Python_and_OpenCV/blob/main/face%20detection.mp4">Here</a> to see the result 
