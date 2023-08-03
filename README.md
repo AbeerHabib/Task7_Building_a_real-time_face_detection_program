@@ -1,22 +1,21 @@
-# Real_time_face_detection_using_Python_and_OpenCV
+#  Building a real-time face detection program with Python and the OpenCV library
 
-# Face detection
-is a type of artificial intelligence (AI) based computer technology used to find and identify human faces in digital images. It can be applied to various fields including security, biometrics, law enforcement, entertainment and personal safety.
+## Face detection
+Face detection is a type of artificial intelligence (AI) powered computer technology that is used to find and recognize human faces within digital images. It can be applied in various domains such as security, biometrics, law enforcement, entertainment and personal safety.
 </br>
 </br>
 <p align="center"><img src="https://user-images.githubusercontent.com/85819577/124750716-7935f100-df2e-11eb-94df-42e614b71f84.png" width="300" height="300" /></p>
-We are still working on the second robot project which is: reception robot. And we will use face detection process to make the robot detect peoples' faces to welcoming them. For that we need a camera to capture peoples' faces, and RaspberryPi to put our program in.
+Currently, we are engaged in our second robot project, which involves the creation of a reception robot. To achieve this, we will employ the process of face detection to enable the robot to identify and greet individuals. To accomplish this, we will require a camera to capture people's faces and a Raspberry Pi to execute our program.
 </br>
 </br>
-what we means by <b>RaspberryPi</b>?
+what do we mean by <b>RaspberryPi</b>?
 RaspberryPi is a small, low-cost computer that can be connected to a computer monitor or TV screen, and can also be connected to a mouse and keyboard to make it easier to control, and do many tasks such as surfing the Internet, playing video, creating spreadsheets, word processing and even playing games.
-So we will need to use RaspberryPi instead of a regular computer, so that the robot can move around without any obstacles.
+By utilizing Raspberry Pi, we can ensure that the robot can move freely without encountering any obstacles.
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg" width="200" height="200" /></p>
 
 ______________________________________________
 
-Instead of writing the program on Raspberry Pi, I wrote it directly in Windows.
-I wrote the code in the editor **Jupyter Notebook (Anaconda3)**, which is an open source web application that allows writing code in Python (and other languages), widely used for learning Python language and machine learning algorithms, easy to use and has a simple user interface.
+Instead of writing the program directly on the Raspberry Pi, I opted to develop it on a Windows platform. I utilized the **Jupyter Notebook (Anaconda3)** editor, which is an open-source web application that supports coding in Python. Jupyter Notebook is extensively used for learning Python language and machine learning algorithms, easy to use and has a simple user interface.
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="100" height="100" /></p>
 
 ______________________________________________
